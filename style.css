@@ -129,6 +129,7 @@ ul li {
   animation: fromLeft .9s .3s backwards;
 }
 
+
 ul li:nth-child(1) {
   animation-delay: 0;
 }
